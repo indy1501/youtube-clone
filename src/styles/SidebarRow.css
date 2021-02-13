@@ -1,0 +1,9 @@
+.sidebarRow {
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+
+h4 {
+  margin: 5px 20px;
+}

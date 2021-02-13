@@ -3,6 +3,10 @@
   align-items: center;
   justify-content: space-between;
   padding: 20px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
 }
 
 /* logo styles */
@@ -23,6 +27,7 @@
 .header__input > input {
   flex: 1;
   border: none;
+  font-size: 18px;
 }
 
 .header__inputButton {
